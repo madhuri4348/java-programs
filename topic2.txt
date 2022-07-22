@@ -1,0 +1,23 @@
+principles:-
+   Objects:-
+	*bjects are basic run time entities in object oriented program.
+	*object represents place,person,back accoount,a table of data or any item then can handle by program.
+	*Object is real world entity.
+program:
+class StudentDemo
+{
+	void name()
+	{
+		System.out.println("Madhuri");
+	}
+	void reg.No()
+	{
+		System.out.println("20k61A1246");
+	}
+	public static void main(String args[])
+	{
+		StudentDemo sd = new StudentDemo();
+		sd.name();
+		sd regNo();
+	}
+}
