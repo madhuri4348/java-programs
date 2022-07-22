@@ -1,0 +1,6 @@
+java principles
+class
+object 
+polymorphism
+inheritism
+encapsulation
