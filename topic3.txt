@@ -1,0 +1,13 @@
+Java virtual machine:-
+	*Jvm has class loder it loads the dotclass file in jvm.
+	*Dotclass file once loaded in jvm.It scans that file.It has any problem it rejects that file.if doesnot it proceeds furtherlu.
+	*It proceds memory area will there in next step.If we take any program to execute first we load in memory.The program will executed only if the memory has that code availability.
+	*After availability of that code the memory takes that code in method area and start execution.
+	*For every class we create object,every object has method area.
+	*We allocate memeory seperately for every object that we create.That memory is allocate in second area that is called heap.
+	*In heap area the memeory is allocate for every object after allocation it starts execution.
+	*Stack area is used to store that result and complete that execution.
+	*Pc registers are used to know every method is in which memory address.That index is maintain by pc registers.
+	*Pc registers are used to store the address.
+	*Some supporting files are not there in java ,but in c,c++.so to include that code in java by using negitive method stack.
+	
