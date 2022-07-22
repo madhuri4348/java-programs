@@ -1,0 +1,15 @@
+procedural oriented programming:-
+	
+	1.In procedural oriented language data will be wasted.
+	2.The data will not be secured in procedural oriented language.
+	3.There is no access specifiers in procedural oriented programming.
+	4.Overloading is not possible in procedural oriented programming.
+	5.It is un real world.
+	6.It is top down approach.
+Object oriented programming:-
+	1.In object oriented programming language dada will not be wasted.
+	2.The data will be secured in object oriented language.
+	3.There is access specifiers in object oriented programming.
+	4.Overloading is possible.
+	5.It is real world.
+	6.It is bottom approach.
