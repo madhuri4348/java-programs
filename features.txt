@@ -1,0 +1,36 @@
+features of java:-
+	simple:
+		*we take alot of fear to write programms in c++,c.
+		*In java we use simple statementsto write programm it performs  big tasks with few lines.
+		*so we can learn java easily
+	secure:-
+
+		*It supports fire version so security will be added to our programm.
+	Portable:-
+		*If we write programm in one device and compile that programm we get out put.we take that compile file in any other device we get same output in both devices thats why java is portable.
+	Object oriented:-
+		*java contains object oriented features thats why it is powerful language.
+		*the major factor for object oriented programming is to remove flaws encountered in the procedural approach.
+	Robust:-
+		*java is strong language because its support powerful features.
+		*like exception handling and memory management these powerful features are easily supported by java.
+	Multithearded:-
+		*It executes multiple tasks.
+		*If we write any program it execute  in flow that flow will stop in any where there is another process to execute but it will not execute.It executes only after completion.
+		*After completion it go to another process in other languages.But in java we can execute with any processwith out complete the program.so it is multi threaded.
+	Platform independent:-
+		*It generates bite code in complation.Bite code is not a conversion of 0's&1's.It is a symbolic language.
+		*That bite code will only understand by jvm.java only contains that jvm.
+		*Jvm will understand that bite code and execute in any device which contains java.
+		*java is not follow any platform thats why it is platform independent.
+	Interpreted:-
+		*we take c,c++ language we use only interpreter or compiler.But in java compiler is used to compile the bite code.
+		*Interpreter is  used for to understand the bite code by jvm and generate the output.
+	High performance:-
+		*In java interpreter performvery low thats why another one compiler is also added that is jit in jvm.
+		*It presents high performance.
+	Distributed:-
+		*It generates network based applications.
+		*We distribute any work and gather it easily in java.
+		*It handles network easily.
+		*Java allows user interactivity so it is dynamic.
